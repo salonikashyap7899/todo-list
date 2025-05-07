@@ -1,8 +1,11 @@
-5064
+5063
 90C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\cosmiconfig\dist\ExplorerBase.js133910708270848368 0
 104C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\text-size-adjust.js133910708450065917 0
 96C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\dom-serializer\lib\esm\foreignNames.js133910708244847209 0
 57C:\Users\isalo\OneDrive\Desktop\Redux-Series\package.json133910896922139725 0
+67C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\is-number133910708254160943 1
+79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\ordered-binary\assets133910708302506291 1
+85C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\utils\src\schema.js133910708348418231 0
 89C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\regions\CZ.js133910708393433834 0
 108C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\css-element-function.js133910708369336094 0
 88C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\watcher\src\DirTree.hh133910708327722237 0
@@ -23,7 +26,7 @@
 99C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\lmdb\node_modules\node-addon-api\index.js133910708308481196 0
 108C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133910708349700517 1
 83C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\lines-and-columns\LICENSE133910708225078604 0
-49C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist133910940801154587 1
+49C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist133911043063234409 1
 85C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\events\lib\index.js133910708282492388 0
 98C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\utility-types\dist\functional-helpers.js133910708250585112 0
 77C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\react-dom\server.js133910706426634756 0
@@ -64,7 +67,7 @@
 119C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\package-manager\test\fixtures\packages\a\package.json133910708334077211 0
 115C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\node-releases\data\release-schedule\release-schedule.json133910708267726679 0
 53C:\Users\isalo\OneDrive\Desktop\Redux-Series\Reducers133910726788631793 1
-54C:\Users\isalo\OneDrive\Desktop\Redux-Series\script.js133910942627766646 0
+54C:\Users\isalo\OneDrive\Desktop\Redux-Series\script.js133911043038992055 0
 79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\react-redux\src\hooks133910710182561979 1
 73C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\posthtml-render133910708264091683 1
 78C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\immer\dist\immer.mjs133910710041534000 0
@@ -76,9 +79,7 @@
 101C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\selection-api.js133910708444251151 0
 82C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@swc\core\postinstall.js133910708293732227 0
 79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\optimizer-css133910708261628994 1
-53C:\Users\isalo\OneDrive\Desktop\Redux-Series\store.js133910942989471023 1
-62C:\Users\isalo\OneDrive\Desktop\Redux-Series\store.js\store.js133910940534693650 0
-96C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\scheduler\cjs\scheduler.development.js133910706410190209 0
+53C:\Users\isalo\OneDrive\Desktop\Redux-Series\store.js133911034939258464 0
 124C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\posthtml\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133910708287686003 0
 84C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\picocolors\picocolors.d.ts133910708268899493 0
 62C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\.bin133910747768240989 1
@@ -329,9 +330,6 @@
 85C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\domelementtype\package.json133910708269047081 0
 89C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\regions\LA.js133910708417389108 0
 69C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\is-arrayish133910708281405375 1
-67C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\is-number133910708254160943 1
-79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\ordered-binary\assets133910708302506291 1
-85C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\utils\src\schema.js133910708348418231 0
 65C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\js-yaml133910708332180450 1
 93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-postcss\LICENSE133910708229212288 0
 79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\reselect\src\utils.ts133910710042099873 0
@@ -535,6 +533,12 @@
 85C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-raw\lib133910708242261877 1
 91C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\weak-lru-cache\tests\benchmark.js133910708244589067 0
 79C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\namer-default133910708261628994 1
+107C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\package-manager\src\NodePackageManager.js133910708321107006 0
+93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\postcss-value-parser\lib\index.d.ts133910708289517661 0
+87C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\weak-lru-cache\dist\index.cjs133910708228356845 0
+98C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\package-manager\lib\index.js.map133910708339285517 0
+93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\woff2.js133910708462816649 0
+113C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\react-redux\dist\cjs\react-redux.production.min.cjs.map133910710181373186 0
 76C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\escalade\readme.md133910708265696851 0
 95C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@swc\helpers\src\_sliced_to_array.mjs133910708408464070 0
 97C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\xhtmlsmil.js133910708463325636 0
@@ -542,12 +546,6 @@
 87C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\type-fest\source\mutable.d.ts133910708321971601 0
 90C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\regenerator-runtime\package.json133910708257214789 0
 122C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json133910708381481444 0
-107C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\package-manager\src\NodePackageManager.js133910708321107006 0
-93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\postcss-value-parser\lib\index.d.ts133910708289517661 0
-87C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\weak-lru-cache\dist\index.cjs133910708228356845 0
-98C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\package-manager\lib\index.js.map133910708339285517 0
-93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\woff2.js133910708462816649 0
-113C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\react-redux\dist\cjs\react-redux.production.min.cjs.map133910710181373186 0
 84C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\utility-types\CHANGELOG.md133910708302372917 0
 101C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\caniuse-lite\data\features\server-timing.js133910708444384097 0
 97C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\packager-raw\src\RawPackager.js133910708253223137 0
@@ -1166,6 +1164,7 @@
 93C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\htmlparser2\lib\esm\Parser.d.ts.map133910708308245054 0
 110C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\scheduler\cjs\scheduler-unstable_mock.development.js133910706409662103 0
 114C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\scheduler\cjs\scheduler-unstable_post_task.production.js133910706410121464 0
+96C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\scheduler\cjs\scheduler.development.js133910706410190209 0
 103C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\scheduler\cjs\scheduler.native.development.js133910706410384879 0
 99C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133910708407808561 0
 80C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\escalade\dist\index.js133910708242586895 0
@@ -4418,7 +4417,7 @@
 74C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\core\lib133910708370968267 1
 110C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-html\node_modules\srcset\license133910708228336516 0
 94C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-svg\package.json133910708291510521 0
-60C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\index.html133910940799023426 0
+60C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\index.html133911043063219460 0
 101C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-svg\src\dependencies.js133910708253054741 0
 103C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133910708283680289 0
 100C:\Users\isalo\OneDrive\Desktop\Redux-Series\node_modules\@parcel\transformer-react-refresh-wrap\lib133910708267270245 1
@@ -5059,7 +5058,7 @@
 78C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.3464ddca.js.map133910913867399060 0
 74C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.36110571.js133910897461218470 0
 78C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.36110571.js.map133910897461519753 0
-74C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.3c14d121.js133910940801024450 0
-78C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.3c14d121.js.map133910940801144374 0
+74C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.3c14d121.js133911043060223170 0
+78C:\Users\isalo\OneDrive\Desktop\Redux-Series\dist\Redux-Series.3c14d121.js.map133911043062003889 0
 67C:\Users\isalo\OneDrive\Desktop\Redux-Series\Components\AddTodo.jsx133910922897289373 0
 65C:\Users\isalo\OneDrive\Desktop\Redux-Series\Components\Todos.jsx133910921872089593 0
